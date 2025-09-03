@@ -12,8 +12,7 @@ Features -
 Built with machine learning, real-time analytics, and seamless notifications, SupplyGuard empowers businesses to maintain a resilient, efficient supply chain.
 
 
-Data Architecure:
+Architecure:
 
 
-
-<img width="1095" height="1165" alt="image" src="https://github.com/user-attachments/assets/25b9c277-6f2d-4136-89e9-8cf7ad0c6e89" />
+<img width="1095" height="1108" alt="image" src="https://github.com/user-attachments/assets/abbbb4ca-bfca-4126-ac01-250903f73a61" />
