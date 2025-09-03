@@ -14,8 +14,6 @@ Built with machine learning, real-time analytics, and seamless notifications, Su
 
 Data Architecure:
 
-<img width="1095" height="1222" alt="image" src="https://github.com/user-attachments/assets/3acbce47-214a-4188-b428-0715216ca4d5" />
 
 
-
-
+<img width="1095" height="1165" alt="image" src="https://github.com/user-attachments/assets/25b9c277-6f2d-4136-89e9-8cf7ad0c6e89" />
